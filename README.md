@@ -11,6 +11,8 @@
         src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
 </a>
 
+| <img src ="./deep.png"/>
+
 
 ## License
 
