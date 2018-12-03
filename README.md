@@ -20,7 +20,7 @@ NairaPay Plus is made available under the terms of the [MIT License](https://ope
 ```
 MIT License
 
-Copyright (c) 2018 Gokul Swaminathan
+Copyright (c) 2018 Yusuf Adefolahan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
