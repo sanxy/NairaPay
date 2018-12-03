@@ -16,7 +16,7 @@
 
 ## License
 
-NairaPay Plus is made available under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+NairaPay is made available under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 ```
 MIT License
 
