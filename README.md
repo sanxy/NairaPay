@@ -1,7 +1,7 @@
 # NairaPay privacy policy is hosted here and will be updated from time to time. Thank you
 [//]: # (Shields)
 
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/JavaCafe01/PdfViewer/blob/master/LICENSE) 
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/sanxy/NairaPay/blob/master/LICENSE) 
 
 ## Download
 
@@ -12,17 +12,9 @@
 </a>
 
 
-## Screenshots
-
-| Main Page | Settings Page |
-|:-:|:-:|
-| <img src ="./images/mainpage.png" width="190" height="340"/> | <img src ="./images/mainpage2.png" width="190" height="340"/> |
-| [`MainActivity.java`](https://github.com/JavaCafe01/PdfViewer/blob/master/app/src/main/java/com/gsnathan/pdfviewer/MainActivity.java) |  [`MainActivity.java`](https://github.com/JavaCafe01/PdfViewer/blob/master/app/src/main/java/com/gsnathan/pdfviewer/MainActivity.java)  | 
-
-
 ## License
 
-Pdf Viewer Plus is made available under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+NairaPay Plus is made available under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 ```
 MIT License
 
