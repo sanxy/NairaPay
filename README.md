@@ -20,7 +20,7 @@ NairaPay is made available under the terms of the [MIT License](https://opensour
 ```
 MIT License
 
-Copyright (c) 2018 Yusuf Adefolahan
+Copyright (c) 2018-2019 Yusuf Adefolahan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
