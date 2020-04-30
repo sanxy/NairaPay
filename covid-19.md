@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Privacy Policy</h2>
-<p>Sanxynet Service built the NairaPay app as a free | freemium | ad-supported app. This SERVICE is provided by Sanxynet Services and is intended
+<p>Covid-19 Sniffer app as a free app. This SERVICE is provided by Efull Technology Limited and is intended
     for use for all Nigerians</p>
 
 <p>If you choose to use our Service, then you agree to the collection and use of information in
